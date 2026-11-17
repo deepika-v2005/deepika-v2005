@@ -1,133 +1,187 @@
-# Hi, I'm Deepika V! 👋
+# 👋 Hey there! I'm Deepika V
 
-### MCA Student | Aspiring Software Developer | Web Development Enthusiast
+### 💻 MCA Student | Aspiring Software Developer | Web Development Enthusiast
 
-Welcome to my GitHub profile! I'm currently pursuing my **Master of Computer Applications (MCA)** at Gobi Arts & Science College. I hold a Bachelor's degree in Computer Science and have a strong interest in software development, web technologies, and database-driven applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+About+Technology;Building+Practical+Web+Applications;Turning+Ideas+Into+Reality;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
+</p>
 
-I'm passionate about learning new technologies, solving problems, and building practical applications that provide useful solutions.
+<p align="center">
+  <a href="https://github.com/deepika-v2005">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/deepika-v-a00974316">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:deepikavelliangiri23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-- 🎓 Currently pursuing MCA (2025–2027).
-- 💻 B.Sc. Computer Science graduate.
-- 🌱 Interested in Software Development and Web Application Development.
-- 🔍 Enjoy debugging, troubleshooting, and problem-solving.
-- 🤝 Believe in teamwork, continuous learning, and collaboration.
-- 🎯 Aspiring to build a career in the IT industry.
+I'm a Computer Science graduate currently pursuing my **Master of Computer Applications (MCA)** at Gobi Arts & Science College.
 
-## 🛠️ Technical Skills
+I enjoy transforming ideas into practical applications through programming and web technologies. My academic journey has given me hands-on experience in developing database-driven applications, designing user-friendly interfaces, and solving real-world problems through technology.
 
-**Programming Languages**
-- Python
-- Java
-- PHP
+- 🎓 MCA Student (2025–2027)
+- 💡 Interested in Software Development & Web Technologies
+- 🚀 Experienced in developing full-stack academic projects
+- 🧩 Passionate about debugging and problem-solving
+- 🌱 Constantly exploring new technologies and improving my skills
+- 🎯 Aspiring to grow as a software professional
 
-**Web Technologies**
-- HTML5
-- CSS3
-- JavaScript
+---
 
-**Database**
-- MySQL
+## 💻 Tech Stack & Skills
 
-**Other Skills**
-- Debugging & Troubleshooting
-- Code Testing
-- Problem-Solving
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-## 🚀 Academic Projects
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 1. Employee Record Management System
-A web-based application designed to simplify employee data management and leave request processing.
+### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-- Secure employee registration and login.
+**Additional Skills:** Debugging • Troubleshooting • Code Testing • Problem-Solving • Teamwork • Communication
+
+---
+
+## 🚀 Featured Projects
+
+### 01. Employee Record Management System
+**A web-based solution for efficient employee and leave management.**
+
+- Secure employee registration and authentication.
 - Employee profile management.
 - Online leave request submission.
-- Admin dashboard to manage employee records.
-- Leave approval and rejection functionality.
+- Administrative employee record management.
+- Leave approval and rejection workflow.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 2. Talent Portal
-A full-stack platform connecting skilled workers, freelancers, and professionals with potential clients.
+---
+
+### 02. Talent Portal
+**A platform connecting skilled workers, freelancers, and clients.**
 
 - Separate Worker and Client modules.
 - Personalized dashboards and visual portfolios.
 - Skill Progress Tracker.
-- Job application tracking with multiple stages.
+- Job application workflow (Pending, Shortlisted, Interview, Hired).
 - Ratings, reviews, and mutual-connection chat.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 3. Visitor Management System for an Office
-A secure web application designed to simplify office visitor registration and appointment management.
+---
+
+### 03. Visitor Management System
+**A digital solution for office visitor registration and appointment management.**
 
 - Online visitor pre-registration.
 - Appointment booking and status tracking.
 - Generated badge notifications.
-- Admin dashboard for visitor monitoring.
-- SMS notifications and manager approval/rejection.
+- Admin dashboard and visitor monitoring.
+- SMS notifications and manager approval system.
 
-**Technologies:** HTML, CSS, PHP, MySQL.
+`HTML` `CSS` `PHP` `MySQL`
+
+---
 
 ## 💼 Internship Experience
 
-**Web Development Intern**  
-Cognifyz IT Solutions Pvt. Ltd.  
-📅 18 June 2026 – 18 July 2026
+### Web Development Intern
+**Cognifyz IT Solutions Pvt. Ltd.**
 
-- Completed a one-month internship in Web Development.
+📅 June 18, 2026 – July 18, 2026
+
+- Successfully completed a one-month Web Development internship.
 - Gained practical exposure to web development activities.
+
+---
 
 ## 🎓 Education
 
-| Qualification | Institution | Year | Percentage |
+| Qualification | Institution | Academic Year | Score |
 |---|---|---|---|
-| MCA | Gobi Arts & Science College | 2025–2027 | 83.21% (up to Semester II) |
+| MCA | Gobi Arts & Science College | 2025–2027 | 83.21%* |
 | B.Sc. Computer Science | Gobi Arts & Science College | 2022–2025 | 83.17% |
 | HSC | Government Girls Higher Secondary School | 2021–2022 | 70% |
 | SSLC | Government Girls Higher Secondary School | 2019–2020 | 66.2% |
 
-## 📜 Certifications
-
-- Machine Learning Using Python – Simplilearn (July 2026).
-- Data Analysis with Python – Infosys Springboard (June 2026).
-- Cloud Technologies – Infosys Springboard (June 2026).
-- Statistics for Data Science – Infosys Springboard (June 2026).
-- Adobe Experience Cloud Suite – Infosys Springboard (June 2026).
-- Employability Skill Training Program – Mahindra Pride Classroom, Naandi Foundation (2024–2025).
-
-## 🏆 Achievements & Activities
-
-- 🥈 Secured Second Rank in Computer Science, Gobi Arts & Science College (2024–2025).
-- Completed Diploma in Yoga for Human Excellence.
-- Completed Value Added Course in Aptitude and Reasoning.
-- Earned an A Grade certificate through Youth Red Cross (YRC).
-- Participated in a District-Level YRC Student Study Camp in Erode.
-- Participated in inter-collegiate Quiz, Tech AD, and Connections events.
-
-## 📚 Core Coursework
-
-- Programming in C
-- Database Management Systems (DBMS)
-- Data Structures
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Object-Oriented Programming (OOP)
-
-## 🌐 Connect With Me
-
-- **GitHub:** [deepika-v2005](https://github.com/deepika-v2005)
-- **LinkedIn:** [Deepika V](https://linkedin.com/in/deepika-v-a00974316)
-- **Email:** deepikavelliangiri23@gmail.com
+<sub>*MCA percentage up to Semester II.</sub>
 
 ---
 
-### 💡 My Goal
+## 🏆 Achievements & Highlights
 
-To continuously improve my technical knowledge, gain industry experience, and contribute to innovative software development projects.
+- 🥈 Secured **Second Rank in Computer Science** at Gobi Arts & Science College (2024–2025).
+- 🧘 Completed Diploma in Yoga for Human Excellence.
+- 📘 Completed Value Added Course in Aptitude and Reasoning.
+- 🏅 Earned an A Grade certificate through Youth Red Cross (YRC).
+- 🌟 Participated in a District-Level YRC Student Study Camp in Erode.
+- 🧠 Participated in inter-collegiate Quiz, Tech AD, and Connections events.
 
-**"Learning, Building, Improving — One Project at a Time!"** 🚀
+---
+
+## 📜 Certifications
+
+| Certification | Organization |
+|---|---|
+| Machine Learning Using Python | Simplilearn |
+| Data Analysis with Python | Infosys Springboard |
+| Cloud Technologies | Infosys Springboard |
+| Statistics for Data Science | Infosys Springboard |
+| Adobe Experience Cloud Suite | Infosys Springboard |
+| Employability Skill Training Program | Mahindra Pride Classroom |
+
+---
+
+## 📚 Core Coursework
+
+`Programming in C` · `DBMS` · `Data Structures` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `Object-Oriented Programming`
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="mailto:deepikavelliangiri23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/deepika-v-a00974316">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/deepika-v2005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** deepikavelliangiri23@gmail.com
+
+💼 **LinkedIn:** [linkedin.com/in/deepika-v-a00974316](https://linkedin.com/in/deepika-v-a00974316)
+
+🐙 **GitHub:** [github.com/deepika-v2005](https://github.com/deepika-v2005)
+
+---
+
+<p align="center">
+  <b>✨ "Dream Big. Code Smart. Build Better. Keep Growing." ✨</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
